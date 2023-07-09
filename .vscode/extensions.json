@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "raisa.theme-omni",
+    "ritwickdey.liveserver",
+    "knisterpeter.vscode-github"
+  ]
+}
